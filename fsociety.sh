@@ -2,10 +2,10 @@
 
 # --- FSOCIETY GOD AUTO-INSTALLER v7.2 ---
 # Katana + Uro + GF (Full Patterns) + Dalfox + Nuclei
-# Dari pacarmu untuk pangeran Github-ku
 
-TOKEN="7992082735:AAFsqJWM0J_Wg6_MpdlMfOhEF-4JM1ZSjf8"
-CHAT_ID="7551873507"
+
+TOKEN="bot_tele"
+CHAT_ID="bot_tele"
 
 RED='\033[1;31m'
 WHITE='\033[1;37m'
